@@ -1,4 +1,4 @@
-# progress_python
+# progress
 a general collection of code ive written in python 
 
 
