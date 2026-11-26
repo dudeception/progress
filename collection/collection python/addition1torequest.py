@@ -1,5 +1,4 @@
 #addition of numbers from 1 to the requested number
-#i hate the teacher so so much in every single way possible 
 #i ask the teacher if it is possible to make comparison between variable types and he dosent answer me
 
 a = int(input("enter a positive integer\n"))
