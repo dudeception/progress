@@ -1,6 +1,5 @@
 #fibonacci thing
 #terrible solution
-#make sure to remove the list later on
 
 a=int(input("enter a number to get the requested fibonacchi number\n"))
 num=1
